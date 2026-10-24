@@ -1,0 +1,20 @@
+Đỗ Khánh Vy
+Data Scientist
+Điện thoại: 0900 000 006 • Email: vy.do@example.com
+
+SUMMARY
+Data Scientist with 2 years of experience in tabular modeling; limited exposure to deep learning and deployment.
+
+EDUCATION
+Van Lang University – B.Sc. in Data Science (2020 - 2024)
+
+EXPERIENCE
+Data Scientist – Go Viet Furniture (08/2024 - nay)
+- Built XGBoost and logistic regression models for demand and pricing with scikit-learn and Pandas.
+- Presented results with Matplotlib and Power BI; trained one small Keras model as an experiment.
+- Used Git for notebooks.
+
+SKILLS
+Python, SQL
+scikit-learn, XGBoost, Keras, Pandas, NumPy, Matplotlib, Seaborn, Power BI, Git
+Vietnamese (native), English – TOEIC 690 (2024)

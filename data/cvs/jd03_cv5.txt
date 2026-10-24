@@ -1,0 +1,19 @@
+Tạ Quang Vinh
+Frontend Developer interested in AI
+Điện thoại: 0900 000 020 • Email: vinh.ta@example.com
+
+SUMMARY
+Frontend developer with 4 years of experience in React, building ML demo interfaces.
+
+EDUCATION
+University of Information Technology – B.Sc. in Information Systems (2017 - 2021)
+
+EXPERIENCE
+Frontend Developer – Pixel Web Design (2021 - nay)
+- Built web interfaces with React, HTML, CSS, JavaScript.
+- Integrated model APIs provided by the backend team.
+
+SKILLS
+JavaScript, HTML, CSS
+React, Git
+Vietnamese (native), English – TOEIC 700 (2022)

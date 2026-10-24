@@ -1,0 +1,22 @@
+Võ Hoàng Nam
+AI Intern
+Điện thoại: 0900 000 013 • Email: nam.vo@example.com
+
+SUMMARY
+Recent graduate with academic deep learning projects and one short internship.
+
+EDUCATION
+Ho Chi Minh City Open University – B.Sc. in Computer Science (2021 - 2025)
+
+PROJECTS
+Handwritten Digit Recognition
+- CNN in TensorFlow on MNIST, 99% accuracy.
+
+EXPERIENCE
+AI Intern – Nhanh Logistics (06/2025 - 08/2025)
+- Cleaned warehouse data with Pandas.
+
+SKILLS
+Python
+TensorFlow, Pandas, NumPy, Git
+Vietnamese (native), English – TOEIC 550 (2025)

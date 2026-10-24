@@ -1,0 +1,16 @@
+Phan Đức Anh
+Software Tester
+Điện thoại: 0900 000 012 • Email: anh.phan@example.com
+
+SUMMARY
+Recent IT graduate with a short manual testing internship.
+
+EDUCATION
+Industrial University of Ho Chi Minh City – B.Sc. in Information Technology (2021 - 2025)
+
+EXPERIENCE
+Manual Tester Intern – An Khang Software (06/2025 - 08/2025)
+- Ran test cases manually and reported bugs on Jira.
+
+SKILLS
+Python, TensorFlow, PyTorch, Keras, scikit-learn, Docker, Kubernetes, AWS, GCP, Azure, Spark, Hadoop, MLflow, FastAPI, Flask, Git, deep learning, NLP, computer vision

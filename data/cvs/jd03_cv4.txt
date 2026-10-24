@@ -1,0 +1,24 @@
+Nguyễn Hải Yến
+Data Scientist
+Điện thoại: 0900 000 014 • Email: yen.nguyen@example.com
+
+SUMMARY
+Data Scientist with 3 years of experience in statistics and forecasting; learning deep learning and deployment.
+
+EDUCATION
+University of Economics Ho Chi Minh City – B.Sc. in Data Science (2018 - 2022)
+
+PROJECTS
+Task Management API (personal project)
+- Built with FastAPI; learning Docker.
+
+EXPERIENCE
+Data Scientist – Viet Mart Analytics (2022 - nay)
+- Built forecasting and statistical models with Python (Pandas, scikit-learn) on PostgreSQL data.
+- Built a small internal Flask API to share model outputs with the business team.
+- Managed code with Git.
+
+SKILLS
+Python, SQL
+scikit-learn, Pandas, NumPy, Flask, FastAPI, Git, Matplotlib, Seaborn
+Vietnamese (native), English – TOEIC 740 (2022)

@@ -1,0 +1,24 @@
+Lê Thu Hà
+AI Engineer
+Điện thoại: 0900 000 008 • Email: ha.le@example.com
+
+SUMMARY
+AI Engineer with a little over 2 years of experience in research-style prototypes, looking to move into production ML.
+
+EDUCATION
+Foreign Trade College – Diploma in Information Technology (2020 - 2023)
+
+PROJECTS
+Sentiment Analysis for Vietnamese Reviews
+- Fine-tuned PhoBERT with Hugging Face; F1 0.85.
+
+EXPERIENCE
+AI Engineer – Sach Xanh Foods Tech (06/2023 - 12/2024)
+- Prototyped text classification models in TensorFlow and Keras; cleaned and labeled datasets.
+Machine Learning Engineer (part-time) – Tan Phu Retail Analytics (01/2025 - nay)
+- Built scikit-learn forecasting models; used Git.
+
+SKILLS
+Python
+TensorFlow, Keras, Hugging Face, scikit-learn, Pandas, NumPy, Git
+Vietnamese (native), English – TOEIC 680 (2024)

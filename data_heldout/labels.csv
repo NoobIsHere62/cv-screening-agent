@@ -1,0 +1,13 @@
+jd_id,cv_id,human_decision,human_score,note
+h1,h1_cv1,Phù hợp,85,"KN B2B 4.8 năm, CRM, Excel; định dạng Work Experience/Present"
+h1,h1_cv2,Cân nhắc,55,"chỉ 8 tháng B2B, còn lại bán lẻ; không có CRM"
+h1,h1_cv3,Không phù hợp,10,"kế toán, không có KN bán hàng; CV không dấu"
+h1,h1_cv4,Phù hợp,78,kỹ sư kinh doanh thiết bị tự động hoá 5.5 năm; ngày đứng riêng dòng
+h2,h2_cv1,Phù hợp,90,"CV tiếng Anh, 4.6 năm DA, SQL/Power BI/Python"
+h2,h2_cv2,Cân nhắc,55,"~1 năm BA, có SQL/Excel, thiếu BI và thiếu năm"
+h2,h2_cv3,Không phù hợp,15,"marketing, không có SQL/BI"
+h2,h2_cv4,Cân nhắc,50,"chuyển ngành từ kế toán, SQL/Power BI mới học qua dự án"
+h3,h3_cv1,Phù hợp,85,3+ năm tuyển dụng khối sản xuất; ngành 'Quản trị nhân lực'
+h3,h3_cv2,Cân nhắc,55,"1.8 năm tuyển dụng IT, không có khối sản xuất"
+h3,h3_cv3,Không phù hợp,10,"kế toán, không liên quan tuyển dụng"
+h3,h3_cv4,Không phù hợp,12,"sinh viên chưa có KN, chỉ liệt kê từ khoá"

@@ -1,0 +1,31 @@
+Lê Minh Quân
+Machine Learning Engineer
+Hà Nội • quan.le.demo@example.com • +84 900 000 001 • github.com/demo-quanle
+
+SUMMARY
+ML Engineer with 4 years of experience shipping NLP and recommendation models to production. Owns the full lifecycle: data pipelines, training, deployment and monitoring.
+
+EDUCATION
+Hanoi University of Science and Technology — B.Sc. in Computer Science 09/2017 – 06/2021
+GPA 3.5 / 4.0
+
+PROJECTS
+Product Recommendation Service 2023 – 2024
+- Built a two-tower recommendation model in PyTorch, lifting click-through rate by 12%.
+- Served via FastAPI and Docker on AWS ECS; tracked experiments with MLflow.
+
+EXPERIENCE
+Machine Learning Engineer — Zeta Commerce JSC 07/2022 – Present
+- Designed and deployed 5 production models (ranking, churn, NLP classification) serving 2M requests per day.
+- Built Airflow pipelines for feature engineering over 500 GB of daily data with Spark.
+- Set up CI/CD with GitHub Actions and model monitoring; cut model latency by 40%.
+- Mentored 2 junior engineers and documented methodology for data science and backend teams.
+Junior Data Scientist — Orion Analytics 08/2021 – 06/2022
+- Trained scikit-learn and Keras models for demand forecasting.
+- Built Power BI dashboards for the sales team.
+
+SKILLS
+Languages: Python, SQL, basic Java
+AI / ML: Deep Learning (CNN, Transformer), NLP, LLM fine-tuning, Recommender Systems
+Tools: PyTorch, TensorFlow, Keras, scikit-learn, Pandas, NumPy, FastAPI, Flask, Docker, Git, MLflow, Airflow, Spark, AWS, Power BI
+Languages (spoken): Vietnamese (native), English — TOEIC 850 (03/2024)

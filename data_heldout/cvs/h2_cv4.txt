@@ -1,0 +1,13 @@
+Dang Quoc Bao
+Accountant transitioning to Data Analytics
+
+Experience
+Senior Accountant, Công ty TNHH Phú Gia (Jan 2021 - Present)
+- Prepared financial reports and reconciled accounts using advanced Excel (pivot tables, macros).
+
+Projects
+Sales Dashboard (2025): built a Power BI dashboard from a SQL database as a Google Data Analytics course project.
+
+Education
+Bachelor of Accounting, Banking Academy (2015 - 2019)
+Skills: Excel, SQL, Power BI, English (reading/writing)

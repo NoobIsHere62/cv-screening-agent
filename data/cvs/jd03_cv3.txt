@@ -1,0 +1,19 @@
+Vũ Thanh Tùng
+Junior AI Engineer
+Điện thoại: 0900 000 015 • Email: tung.vu@example.com
+
+SUMMARY
+Junior AI Engineer with about one year of experience in model training; learning Docker.
+
+EDUCATION
+Ho Chi Minh City University of Technology and Education – B.Sc. in Information Technology (2020 - 2024)
+
+EXPERIENCE
+Junior AI Engineer – Sao Mai Software (10/2024 - nay)
+- Trained image classification models with PyTorch and scikit-learn.
+- Used Git in a team.
+
+SKILLS
+Python, SQL
+PyTorch, scikit-learn, Pandas, NumPy, Git. Learning Docker.
+Vietnamese (native), English – TOEIC 690 (2024)

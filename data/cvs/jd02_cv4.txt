@@ -1,0 +1,24 @@
+Bùi Thanh Tâm
+Self-taught AI Engineer
+Điện thoại: 0900 000 009 • Email: tam.bui@example.com
+
+SUMMARY
+Self-taught AI practitioner with Kaggle experience and freelance computer vision projects; business degree.
+
+EDUCATION
+Ho Chi Minh City University of Foreign Languages and Information Technology – B.A. in English Language (2017 - 2021)
+Certificate: Deep Learning Specialization (online course, 2022)
+
+PROJECTS
+Kaggle Image Classification Competitions
+- Top 15% with transfer learning in PyTorch; EfficientNet and augmentation.
+
+EXPERIENCE
+Freelance Computer Vision Developer (01/2023 - nay)
+- Built 6 small image classification and OCR tools for e-commerce clients with PyTorch and OpenCV.
+- Delivered as Flask APIs with Docker; used Git.
+
+SKILLS
+Python
+PyTorch, TensorFlow, OpenCV, Pandas, NumPy, Flask, Docker, Git
+Vietnamese (native), English – IELTS 7.0 (2021)

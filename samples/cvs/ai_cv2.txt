@@ -1,0 +1,28 @@
+Trần Thu Hà
+Data Scientist / ML Engineer
+TP.HCM • ha.tran.demo@example.com • +84 900 000 002 • github.com/demo-thutran
+
+SUMMARY
+Data scientist with 3 years of experience in computer vision and tabular modeling, comfortable taking models from notebook to a REST API.
+
+EDUCATION
+University of Information Technology, VNU-HCM — B.Sc. in Software Engineering 09/2018 – 07/2022
+GPA 3.3 / 4.0
+
+PROJECTS
+Defect Detection for Garment Factory 2024
+- Trained a CNN (PyTorch) with OpenCV preprocessing, 94% accuracy on 20k images.
+- Packaged as Flask API in Docker for the factory floor.
+
+EXPERIENCE
+Data Scientist — Saigon Vision Tech 09/2022 – Present
+- Developed and tuned computer vision and gradient boosting models for 3 client projects.
+- Cleaned and labeled datasets of 100k+ images; wrote data validation scripts in Pandas.
+- Deployed models behind Flask APIs with Docker; used Git and code review daily.
+- Presented results and wrote documentation for non-technical stakeholders.
+
+SKILLS
+Languages: Python, SQL
+AI / ML: CNN, Computer Vision, XGBoost, Statistical Modeling
+Tools: PyTorch, TensorFlow, OpenCV, scikit-learn, Pandas, NumPy, Flask, Docker, Git, Matplotlib, Seaborn
+Languages (spoken): Vietnamese (native), English — TOEIC 780 (11/2023)

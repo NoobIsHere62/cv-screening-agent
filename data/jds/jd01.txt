@@ -1,0 +1,31 @@
+Key Responsibilities:
+
+Design, develop, and implement machine learning and deep learning models.
+Work with large datasets: preprocessing, cleaning, feature engineering, and labeling.
+Research and apply state-of-the-art AI algorithms (e.g., NLP, computer vision, recommendation systems).
+Optimize models for accuracy, efficiency, and scalability.
+Collaborate with data scientists, data engineers, and software developers to integrate models into production.
+Monitor, maintain, and improve deployed AI systems.
+Document methodologies, processes, and findings.
+ 
+
+Required skills/Experience:
+
+Strong programming skills in Python (NumPy, Pandas, Scikit-learn).
+Hands-on experience with deep learning frameworks (TensorFlow, PyTorch, Keras).
+Understanding of ML algorithms, neural networks, and statistical modeling.
+Familiarity with data structures, algorithms, and software engineering principles.
+Experience with version control (Git).
+Knowledge of APIs and model deployment (Flask, FastAPI, Docker, etc.).
+Bachelor’s degree in Computer Science, Data Science or a related field (Software Engineering).
+TOEIC score: ≥650 or an equivalent level of English proficiency.
+Nice to have:
+
+Experience in NLP (transformers, LLMs) or computer vision (CNNs, OpenCV).
+Knowledge of MLOps practices (MLflow, Kubeflow, Airflow, CI/CD).
+Exposure to cloud platforms (AWS, GCP, Azure).
+Familiarity with distributed systems (Spark, Hadoop).
+Background in data visualization tools (Power BI, Tableau, or Matplotlib/Seaborn).
+ 
+
+Years of experiences: No

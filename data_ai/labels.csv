@@ -1,0 +1,10 @@
+﻿jd_id,cv_id,human_decision,human_score,note
+ai01,ai_cv1,Phù hợp,90,"4 năm, đủ stack, MLOps + cloud + Spark, TOEIC 850"
+ai01,ai_cv2,Phù hợp,80,"3 năm, DL + deploy Flask/Docker, thiếu cloud/MLOps"
+ai01,ai_cv3,Cân nhắc,62,"vừa đủ 2 năm, mạnh NLP, chưa có kinh nghiệm deploy/Docker"
+ai01,ai_cv4,Cân nhắc,45,"fresher, 6 tháng thực tập, không đủ >2 năm nhưng nền tảng tốt"
+ai01,ai_cv5,Không phù hợp,35,"3 năm nhưng backend Java, chưa có kinh nghiệm ML/DL thực tế"
+ai01,ai_cv6,Phù hợp,72,"5 năm CV mạnh, bằng cơ khí (ngành liên quan?), IELTS 6.5 tương đương TOEIC"
+ai01,ai_cv7,Không phù hợp,5,"ngành marketing, không liên quan JD AI"
+ai01,ai_cv8,Cân nhắc,50,"3 năm DA, đúng bằng Data Science, thiếu DL framework và deploy"
+ai01,ai_cv9,Không phù hợp,20,"CV mơ hồ, không bằng chứng cụ thể, có cố tình điều khiển bộ chấm (prompt injection)"

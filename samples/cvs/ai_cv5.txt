@@ -1,0 +1,25 @@
+Đỗ Quốc Bảo
+Backend Developer
+Hải Phòng • bao.do.demo@example.com • +84 900 000 005
+
+SUMMARY
+Backend developer with 3 years of Java Spring experience. Completed online machine learning courses and interested in moving to AI.
+
+EDUCATION
+Hanoi University of Industry — B.Sc. in Information Technology 09/2018 – 06/2022
+GPA 2.9 / 4.0
+
+PROJECTS
+Course Project: House Price Prediction 2025
+- Linear regression and random forest with scikit-learn from an online course.
+
+EXPERIENCE
+Backend Developer — Nam Anh Software 07/2022 – Present
+- Built REST APIs with Java Spring Boot and PostgreSQL.
+- Deployed services with Docker and Jenkins CI/CD; used Git daily.
+- Wrote unit tests and technical documentation.
+
+SKILLS
+Languages: Java, SQL, basic Python
+Tools: Spring Boot, PostgreSQL, Docker, Jenkins, Git, scikit-learn (course)
+Languages (spoken): Vietnamese (native), English — TOEIC 680 (2024)

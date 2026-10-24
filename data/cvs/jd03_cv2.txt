@@ -1,0 +1,24 @@
+Châu Nhật Minh
+AI Engineer
+Điện thoại: 0900 000 019 • Email: minh.chau@example.com
+
+SUMMARY
+AI Engineer with 3 years of experience, moved from Python backend into machine learning APIs and model serving.
+
+EDUCATION
+University of Information Technology, VNU-HCM – B.Sc. in Software Engineering (2018 - 2022)
+
+PROJECTS
+Image Classification API
+- ResNet fine-tuning in PyTorch served with FastAPI and Docker.
+
+EXPERIENCE
+AI Engineer – Viet Hung Software Solutions (06/2023 - nay)
+- Trained and deployed text and image classification models using PyTorch and scikit-learn.
+- Built REST APIs with FastAPI and Django REST Framework; used Docker for dev and staging.
+- Wrote SQL and PostgreSQL index optimizations; managed code with Git; code review and unit tests.
+
+SKILLS
+Python, SQL
+PyTorch, scikit-learn, Pandas, NumPy, FastAPI, Django, Docker, Git, PostgreSQL
+Vietnamese (native), English – TOEIC 700 (2023)

@@ -1,0 +1,26 @@
+Hoàng Gia Bảo
+NLP Engineer
+Điện thoại: 0900 000 017 • Email: bao.hoang@example.com
+
+SUMMARY
+NLP Engineer with 3 years of experience in Vietnamese text classification, chatbots and LLM applications.
+
+EDUCATION
+FPT University – B.Sc. in Artificial Intelligence (2021 - 2024)
+
+PROJECTS
+Vietnamese Legal QA Chatbot
+- RAG pipeline with LangChain and vector search; Flask web app in Docker.
+
+EXPERIENCE
+NLP Engineer – Sao Viet AI Agency (03/2024 - nay)
+- Fine-tuned PhoBERT and transformer models with Hugging Face for sentiment and intent classification, F1 0.88.
+- Built RAG chatbots with LangChain; exposed REST APIs with FastAPI and Docker.
+- Cleaned and labeled 200k Vietnamese documents; evaluated models and wrote reports.
+AI Intern – Sao Viet AI Agency (06/2023 - 02/2024)
+- Built text preprocessing pipelines with Pandas and scikit-learn.
+
+SKILLS
+Python, SQL
+PyTorch, TensorFlow, Hugging Face, LangChain, scikit-learn, Pandas, NumPy, FastAPI, Flask, Docker, Git
+Vietnamese (native), English – TOEIC 720 (2024)

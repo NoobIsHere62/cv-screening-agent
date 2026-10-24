@@ -1,0 +1,3 @@
+# Giao diện Streamlit cũ (tùy chọn): streamlit run app.py
+streamlit>=1.50
+pandas>=2.0

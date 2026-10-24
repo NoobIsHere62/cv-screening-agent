@@ -1,0 +1,21 @@
+Lâm Gia Huy
+MLOps / Machine Learning Engineer
+Điện thoại: 0900 000 010 • Email: huy.lam.dev@example.com • GitHub: github.com/demo-huylam
+
+SUMMARY
+ML engineer focused on deployment and MLOps with 4 years of experience in fintech, serving models at scale on AWS.
+
+EDUCATION
+Ho Chi Minh City University of Technology – B.Sc. in Computer Science (2017 - 2021)
+
+EXPERIENCE
+Machine Learning Engineer – PayNow Fintech (02/2022 - nay)
+- Built fraud detection models with scikit-learn and PyTorch, serving 2M requests per day via FastAPI.
+- Packaged models with Docker, deployed on AWS (EC2, S3) with CI/CD on GitHub Actions; tracked experiments with MLflow.
+- Designed PostgreSQL feature stores and optimized slow queries, cutting response time from 800ms to 120ms.
+- Wrote unit tests with pytest (85% coverage) and ran weekly code reviews.
+
+SKILLS
+Python, SQL
+PyTorch, scikit-learn, Pandas, NumPy, FastAPI, Django, Docker, Git, MLflow, Airflow, AWS, PostgreSQL, Redis
+Vietnamese (native), English – IELTS 6.5 (2023)

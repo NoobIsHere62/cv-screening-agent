@@ -1,0 +1,27 @@
+Bùi Thanh Tùng
+Data Analyst
+Hà Nội • tung.bui.demo@example.com • +84 900 000 008 • github.com/demo-tungbui
+
+SUMMARY
+Data analyst with 3 years of experience in reporting and statistics, learning machine learning on the side.
+
+EDUCATION
+National Economics University — B.Sc. in Data Science 09/2018 – 06/2022
+GPA 3.4 / 4.0
+
+PROJECTS
+Customer Churn Prediction 2025
+- Logistic regression and random forest in scikit-learn; no deployment.
+
+EXPERIENCE
+Data Analyst — Viet Retail Group 07/2022 – Present
+- Cleaned and analyzed sales data with Python (Pandas, NumPy) and SQL.
+- Built Power BI and Tableau dashboards used by 40 managers.
+- Ran A/B test analysis and statistical modeling for promotions.
+- Used Git for team notebooks.
+
+SKILLS
+Languages: Python, SQL
+AI / ML: Statistical Modeling, Machine Learning (basic)
+Tools: Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Power BI, Tableau, Git
+Languages (spoken): Vietnamese (native), English — TOEIC 750 (2023)

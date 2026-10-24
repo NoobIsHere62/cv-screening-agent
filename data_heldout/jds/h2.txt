@@ -1,0 +1,17 @@
+Data Analyst (Junior/Mid) - FinTrust Vietnam
+
+About the role
+We are looking for a Data Analyst to build dashboards and support the business with data-driven insights.
+
+Requirements
+- Bachelor's degree in Statistics, Mathematics, Computer Science, Economics or related field
+- 2+ years of experience in data analysis or business intelligence
+- Strong SQL skills and advanced Excel
+- Experience with Power BI or Tableau
+- Good command of English (reading and writing)
+Nice to have
+- Knowledge of Python (pandas) for data processing
+- Experience in banking or fintech
+
+Benefits
+- Competitive salary, 13th month bonus

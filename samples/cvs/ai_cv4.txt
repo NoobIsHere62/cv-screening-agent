@@ -1,0 +1,27 @@
+Vũ Thị Mai
+AI / Machine Learning Engineer (Fresher)
+Cần Thơ • mai.vu.demo@example.com • +84 900 000 004 • github.com/demo-maivu
+
+SUMMARY
+Recent graduate seeking an entry-level AI role. Strong academic projects in deep learning and one 6-month internship.
+
+EDUCATION
+Can Tho University — B.Sc. in Computer Science 09/2020 – 06/2025
+GPA 3.6 / 4.0
+
+PROJECTS
+Plant Disease Classifier 2025
+- Transfer learning with ResNet50 in PyTorch, 96% accuracy; Gradio demo.
+Movie Recommendation System 2024
+- Collaborative filtering with scikit-learn and Pandas.
+
+EXPERIENCE
+AI Intern — Mekong Data Lab 01/2025 – 06/2025
+- Cleaned and labeled image datasets; trained CNN baselines.
+- Wrote a Flask API wrapper for an internal demo.
+
+SKILLS
+Languages: Python, SQL
+AI / ML: Deep Learning, Computer Vision
+Tools: PyTorch, TensorFlow, scikit-learn, Pandas, NumPy, Flask, Git, Matplotlib
+Languages (spoken): Vietnamese (native), English — TOEIC 720 (09/2024)

@@ -1,0 +1,15 @@
+Linh Pham
+Data Analyst
+
+EXPERIENCE
+Data Analyst, VPBank (Mar 2022 - Present)
+- Built Power BI dashboards for retail banking KPIs, used by 30+ managers.
+- Wrote complex SQL queries on Oracle and PostgreSQL, automated weekly reports with Python (pandas).
+Junior Data Analyst, Tiki (Aug 2020 - Feb 2022)
+- Analysed customer behaviour using SQL and advanced Excel (pivot tables, Power Query).
+
+EDUCATION
+BSc in Statistics, National Economics University (2016 - 2020)
+
+SKILLS
+SQL, Power BI, Excel, Python, English (IELTS 7.0)

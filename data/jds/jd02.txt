@@ -1,0 +1,59 @@
+Job Description:
+
+We are looking for a talented Full-stack Developer to join our team and build scalable, high-performance applications using modern technologies.
+
+
+
+Key Responsibilities:
+
+Design, develop, and maintain full-stack applications
+
+Build robust backend services using Java (Spring Boot)
+
+Develop responsive and user-friendly frontend using ReactJS
+
+Design and integrate RESTful APIs
+
+Optimize system performance and ensure code quality
+
+Collaborate with cross-functional and global teams
+
+
+
+Required skills/Experience:
+
+2+ years of experience in full-stack development
+Strong experience with Java (Spring Boot)
+Experience with ReactJS and modern frontend development
+Understanding of RESTful APIs and web services
+Familiar with Git or other version control systems
+Basic knowledge of microservices architecture is a plus
+Good English communication skills
+Bachelor’s degree in Computer Science or a related field (Software Engineering).
+TOEIC score: ≥650 or an equivalent level of English proficiency
+
+
+Nice to have:
+
+Experience with TypeScript and modern React features (Hooks, Context API)
+Familiarity with Azure or other cloud platforms
+Knowledge of CI/CD pipelines and DevOps practices
+Experience with testing frameworks (e.g., xUnit, Jest, Cypress)
+Understanding of microservices architecture is a plus
+
+
+Years of experiences:  2+ YoE
+
+
+
+Benefits/ Opportunity:
+
+Working in an international, dynamic and professional environment with many opportunities to develop career.
+Having opportunities of being trained oversea and working directly with oversea customer
+A stable and rewarding position where your long-term commitment will be highly valued.
+Technical & Soft skills internal training courses
+Many company activities (Sport and music festival, TMA Futsal league …) are held annually.
+Competitive salary and bonus.
+Total Health Care Insurance
+Loan Fund
+Team Building Fund

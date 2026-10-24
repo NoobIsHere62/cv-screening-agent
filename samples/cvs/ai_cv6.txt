@@ -1,0 +1,29 @@
+Hoàng Gia Huy
+Computer Vision Engineer
+TP.HCM • huy.hoang.demo@example.com • +84 900 000 006 • github.com/demo-giahuy
+
+SUMMARY
+Computer vision engineer with 5 years of experience in industrial inspection. Came from mechanical engineering and moved into ML through applied projects.
+
+EDUCATION
+Ho Chi Minh City University of Technology — B.Eng. in Mechanical Engineering 09/2015 – 06/2020
+GPA 3.1 / 4.0
+
+PROJECTS
+Real-time Weld Inspection 2022
+- YOLO-based detector in PyTorch with OpenCV, 30 FPS on edge GPU; exported with ONNX and served via FastAPI in Docker.
+
+EXPERIENCE
+Computer Vision Engineer — Delta Automation Vietnam 03/2021 – Present
+- Designed and deployed CNN and YOLO models for 6 inspection lines.
+- Built labeling and augmentation pipelines for 200k+ images.
+- Optimized models for edge devices, cutting inference time by 55%.
+- Used Git, Docker and GitLab CI/CD; documented methodologies for the engineering team.
+Automation Engineer — Delta Automation Vietnam 07/2020 – 02/2021
+- Programmed PLC and vision systems for production lines.
+
+SKILLS
+Languages: Python, C++
+AI / ML: CNN, YOLO, Computer Vision, Model Optimization
+Tools: PyTorch, TensorFlow, OpenCV, NumPy, Pandas, FastAPI, Docker, Git, GitLab CI/CD, Matplotlib
+Languages (spoken): Vietnamese (native), English — IELTS 6.5 (2023)

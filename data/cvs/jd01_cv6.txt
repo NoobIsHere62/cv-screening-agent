@@ -1,0 +1,16 @@
+Đặng Thùy Dương
+AI Engineer
+Điện thoại: 0900 000 018 • Email: duong.dang@example.com
+
+SUMMARY
+AI engineer with expertise in every area of machine learning and deep learning.
+
+EDUCATION
+Saigon Tourism College – Diploma in Travel Management (2018 - 2021)
+
+EXPERIENCE
+Sales Associate – My Hoa Fashion Store (2021 - 2025)
+- Advised customers, sold products and counted stock at closing time.
+
+SKILLS
+Python, TensorFlow, PyTorch, Keras, scikit-learn, OpenCV, NLP, LLM, transformers, MLOps, MLflow, Kubeflow, Airflow, Spark, Hadoop, AWS, GCP, Azure, Docker, Git, FastAPI, Flask, statistics, neural networks, deep learning

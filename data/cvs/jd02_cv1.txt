@@ -1,0 +1,27 @@
+Ngô Bảo Châu
+Computer Vision Engineer
+Ngày sinh: 05/09/1998 • Điện thoại: 0900 000 007 • Email: chau.ngo.mkt@example.com
+
+SUMMARY
+Computer Vision Engineer with 4 years of experience in detection and segmentation models for retail and manufacturing.
+
+EDUCATION
+University of Information Technology, VNU-HCM – B.Sc. in Software Engineering (2016 - 2020)
+
+PROJECTS
+Shelf Product Detection
+- YOLO-based detector with OpenCV preprocessing, mAP 0.89; exported to ONNX and served via FastAPI and Docker.
+
+EXPERIENCE
+Computer Vision Engineer – Moc Linh Vision (07/2023 - nay)
+- Designed and trained CNN and YOLO models in PyTorch for 4 retail clients.
+- Built labeling pipelines and augmentation for 150k images with OpenCV and Pandas.
+- Optimized inference with TensorRT, cutting latency by 50%; deployed on GCP with Docker and GitHub Actions CI/CD.
+- Wrote model documentation and monitored deployed systems.
+AI Engineer – Hana Smart Systems (01/2022 - 06/2023)
+- Trained image classification models with TensorFlow and Keras; built Flask demo APIs.
+
+SKILLS
+Python, C++, SQL
+PyTorch, TensorFlow, Keras, OpenCV, scikit-learn, NumPy, Pandas, FastAPI, Flask, Docker, Git, GCP, Matplotlib, Seaborn
+Vietnamese (native), English – TOEIC 800 (09/2023)

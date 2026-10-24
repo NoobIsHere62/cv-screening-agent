@@ -1,0 +1,28 @@
+Nguyễn Thị Lan
+Senior Machine Learning Engineer
+Ngày sinh: 12/03/1994 • Điện thoại: 0900 000 011 • Email: lan.nguyen.kt@example.com
+
+SUMMARY
+Machine Learning Engineer with 6 years of experience building and deploying NLP and ranking models in production, and mentoring junior engineers.
+
+EDUCATION
+Ho Chi Minh City University of Technology – B.Sc. in Computer Science (2012 - 2016)
+
+PROJECTS
+Vietnamese Document Search with Transformers
+- Fine-tuned PhoBERT for semantic search, MRR improved by 18%; served with FastAPI in Docker.
+
+EXPERIENCE
+Senior ML Engineer – Hoang Gia Distribution Tech (03/2021 - nay)
+- Led 4 production models (ranking, NLP classification, forecasting) serving 3M requests per day with PyTorch and FastAPI.
+- Built MLflow experiment tracking and Airflow pipelines on AWS; reduced model release time from 2 weeks to 2 days.
+- Processed 1 TB of daily data with Spark; wrote feature engineering and labeling guidelines.
+- Mentored 3 junior engineers and documented methodology for data engineers and backend teams.
+Machine Learning Engineer – Viet Tien Analytics (07/2018 - 02/2021)
+- Trained TensorFlow and Keras models for demand forecasting; deployed Flask APIs with Docker.
+- Used Git and CI/CD with Jenkins.
+
+SKILLS
+Python, SQL, basic Java
+PyTorch, TensorFlow, Keras, scikit-learn, Pandas, NumPy, Hugging Face, FastAPI, Flask, Docker, Git, MLflow, Airflow, Spark, AWS, Matplotlib
+Vietnamese (native), English – TOEIC 870 (03/2024)

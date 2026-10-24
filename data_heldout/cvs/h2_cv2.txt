@@ -1,0 +1,11 @@
+Pham Gia Huy
+Business Analyst
+
+Experience
+Business Analyst, Công ty ABC (Sep 2025 - Present)
+- Write SQL queries to extract data and create weekly Excel reports for the sales team.
+
+Education
+Bachelor of Economics, University of Economics Ho Chi Minh City (2020 - 2024)
+
+Skills: SQL, Excel, English

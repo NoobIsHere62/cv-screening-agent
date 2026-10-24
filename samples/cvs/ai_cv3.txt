@@ -1,0 +1,26 @@
+Phạm Đức Anh
+AI Engineer
+Đà Nẵng • anh.pham.demo@example.com • +84 900 000 003
+
+SUMMARY
+AI engineer with a little over 2 years of experience, mostly on research-style prototypes. Looking to move into production ML.
+
+EDUCATION
+Danang University of Science and Technology — B.Sc. in Information Technology 09/2018 – 06/2022
+GPA 3.0 / 4.0
+
+PROJECTS
+Sentiment Analysis for Vietnamese Reviews 2023
+- Fine-tuned PhoBERT with Hugging Face Transformers; F1 0.86.
+
+EXPERIENCE
+AI Engineer — Hai Van Software 08/2022 – Present
+- Prototyped text classification and chatbot models in TensorFlow and Keras.
+- Cleaned and labeled text datasets, wrote evaluation reports.
+- Worked with Git; models were handed to the backend team for integration.
+
+SKILLS
+Languages: Python
+AI / ML: NLP, Transformers, Machine Learning
+Tools: TensorFlow, Keras, Hugging Face, scikit-learn, Pandas, NumPy, Git
+Languages (spoken): Vietnamese (native), English — TOEIC 700 (06/2023)

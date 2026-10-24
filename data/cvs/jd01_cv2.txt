@@ -1,0 +1,26 @@
+Trần Minh Khoa
+Machine Learning Engineer
+Điện thoại: +84 900 000 005 • Email: khoa.tran.acc@example.com
+
+SUMMARY
+Machine Learning Engineer with 3 years of experience in recommendation and tabular models, comfortable shipping models behind REST APIs.
+
+EDUCATION
+Banking University of Ho Chi Minh City – B.Sc. in Data Science (2017 - 2021)
+
+PROJECTS
+Movie Recommendation Service
+- Matrix factorization and neural collaborative filtering in PyTorch; Flask API in Docker.
+
+EXPERIENCE
+Machine Learning Engineer – Phu Gia Electronics Tech (02/2023 - nay)
+- Built recommendation and churn models with PyTorch and scikit-learn; deployed via Flask and Docker.
+- Cleaned and labeled datasets of 5M records with Pandas and SQL; wrote feature engineering pipelines.
+- Used Git, code review and unit tests; documented methodology for the product team.
+Data Scientist – Dai Phat Furniture Analytics (06/2021 - 01/2023)
+- Trained scikit-learn and Keras models for sales forecasting; built Power BI dashboards.
+
+SKILLS
+Python, SQL
+PyTorch, Keras, scikit-learn, Pandas, NumPy, Flask, Docker, Git, Power BI, Matplotlib
+Vietnamese (native), English – TOEIC 760 (2023)

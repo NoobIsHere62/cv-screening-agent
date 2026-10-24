@@ -1,0 +1,20 @@
+Lương Văn Đạt
+Junior Backend Developer
+Điện thoại: 0900 000 022 • Email: dat.luong@example.com
+
+SUMMARY
+Backend developer with 3 years of Java experience; has completed one short machine learning course.
+
+EDUCATION
+University of Economics – B.Sc. in Information Systems (2017 - 2021)
+Completed a basic online machine learning course (1 week).
+
+EXPERIENCE
+Backend Developer – Hoa Binh Software (2021 - nay)
+- Built REST APIs with Java Spring Boot and MySQL.
+- Wrote unit tests; used Git.
+
+SKILLS
+Java, SQL, basic Python
+Spring Boot, MySQL, Git
+Vietnamese (native), English – TOEIC 600 (2022)

@@ -1,0 +1,24 @@
+Phạm Quốc Bảo
+Data Analyst moving into AI
+Điện thoại: 0900 000 016 • Email: bao.pham@example.com
+
+SUMMARY
+Data Analyst with 4 years of experience in banking, completing machine learning courses and seeking an AI Engineer role.
+
+EDUCATION
+University of Finance and Marketing – B.Sc. in Business Analytics (2017 - 2021)
+Certificate: Machine Learning Specialization (online course, 2025)
+
+PROJECTS
+Credit Scoring Model (course project)
+- Logistic regression and random forest with scikit-learn; no deployment.
+
+EXPERIENCE
+Data Analyst – Dong A Bank, District 3 Branch (2021 - 2025)
+- Cleaned and analyzed transaction data with Python (Pandas) and SQL; automated daily reports.
+- Built Power BI and Excel dashboards; found data anomalies with the highest detection rate in the branch in 2023.
+
+SKILLS
+Python, SQL
+Pandas, NumPy, scikit-learn, Power BI, Matplotlib
+Vietnamese (native), English – TOEIC 650 (2024)

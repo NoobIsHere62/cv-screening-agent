@@ -1,0 +1,3 @@
+# Đo độ chính xác: python eval.py / calibrate.py
+pandas>=2.0
+scipy>=1.10

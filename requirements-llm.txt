@@ -1,0 +1,2 @@
+# Engine LLM TÙY CHỌN (tắt mặc định). Cần đặt CV_AGENT_ENABLE_LLM=1 và ANTHROPIC_API_KEY
+anthropic>=0.40

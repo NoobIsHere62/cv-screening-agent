@@ -1,0 +1,12 @@
+{
+  "implies": {
+    "zalo ads": "quảng cáo ads",
+    "autocad": "bản vẽ thiết kế kỹ thuật"
+  },
+  "field_groups": [
+    ["điều dưỡng", "y khoa", "y tá", "nursing"]
+  ],
+  "stop": [],
+  "stop_phrases": ["đảm bảo"],
+  "tech_aliases": {"c\\+\\+": "cpp"}
+}

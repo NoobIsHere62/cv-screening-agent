@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Bí mật và cấu hình riêng của từng máy
+.env
+.env.*
+!.env.example
+lexicon_user.json
+
+# Kết quả sinh ra khi chạy (chứa dữ liệu ứng viên)
+outputs/
+eval_cache/
+rubrics/
+ranking.csv
+eval_results_*.csv
+*.xlsx
+
+# CV thật chứa thông tin cá nhân: KHÔNG đưa lên kho mã.
+# Chỉ các CV mẫu tự tạo trong samples/ được phép commit.
+data/**/*.pdf
+data/**/*.docx
+data/**/*.doc
+data_private/
+my_cvs/

@@ -1,0 +1,6 @@
+# OCR cho PDF dạng ảnh/scan (tùy chọn, chạy trên máy, không gửi dữ liệu ra ngoài)
+# Cách 1 (chính xác nhất với tiếng Việt): cài chương trình Tesseract kèm ngôn ngữ Vietnamese rồi
+pytesseract>=0.3.10
+pillow>=10
+# Cách 2 (chỉ cần pip, nhưng mất dấu tiếng Việt, kết quả luôn bị gắn cờ cần xem lại):
+rapidocr-onnxruntime>=1.3
